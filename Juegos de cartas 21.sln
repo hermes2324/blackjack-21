@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juegos de cartas 21", "Juegos de cartas 21\Juegos de cartas 21.csproj", "{332CEAD4-6A80-4D43-9241-69055421EFD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imagenes", "Imagenes", "{9B20ADDD-EF2E-4698-A9DD-5F03DE891B38}"
+	ProjectSection(SolutionItems) = preProject
+		Juegos de cartas 21\Resources\10C.png = Juegos de cartas 21\Resources\10C.png
+		Juegos de cartas 21\Resources\10D.png = Juegos de cartas 21\Resources\10D.png
+		Juegos de cartas 21\Resources\10H.png = Juegos de cartas 21\Resources\10H.png
+		Juegos de cartas 21\Resources\10S.png = Juegos de cartas 21\Resources\10S.png
+		Juegos de cartas 21\Resources\2C.png = Juegos de cartas 21\Resources\2C.png
+		Juegos de cartas 21\Resources\2D.png = Juegos de cartas 21\Resources\2D.png
+		Juegos de cartas 21\Resources\2H.png = Juegos de cartas 21\Resources\2H.png
+		Juegos de cartas 21\Resources\2S.png = Juegos de cartas 21\Resources\2S.png
+		Juegos de cartas 21\Resources\3C.png = Juegos de cartas 21\Resources\3C.png
+		Juegos de cartas 21\Resources\3D.png = Juegos de cartas 21\Resources\3D.png
+		Juegos de cartas 21\Resources\3H.png = Juegos de cartas 21\Resources\3H.png
+		Juegos de cartas 21\Resources\3S.png = Juegos de cartas 21\Resources\3S.png
+		Juegos de cartas 21\Resources\4C.png = Juegos de cartas 21\Resources\4C.png
+		Juegos de cartas 21\Resources\4D.png = Juegos de cartas 21\Resources\4D.png
+		Juegos de cartas 21\Resources\4H.png = Juegos de cartas 21\Resources\4H.png
+		Juegos de cartas 21\Resources\4S.png = Juegos de cartas 21\Resources\4S.png
+		Juegos de cartas 21\Resources\5C.png = Juegos de cartas 21\Resources\5C.png
+		Juegos de cartas 21\Resources\5D.png = Juegos de cartas 21\Resources\5D.png
+		Juegos de cartas 21\Resources\5H.png = Juegos de cartas 21\Resources\5H.png
+		Juegos de cartas 21\Resources\5S.png = Juegos de cartas 21\Resources\5S.png
+		Juegos de cartas 21\Resources\6C.png = Juegos de cartas 21\Resources\6C.png
+		Juegos de cartas 21\Resources\6D.png = Juegos de cartas 21\Resources\6D.png
+		Juegos de cartas 21\Resources\6H.png = Juegos de cartas 21\Resources\6H.png
+		Juegos de cartas 21\Resources\6S.png = Juegos de cartas 21\Resources\6S.png
+		Juegos de cartas 21\Resources\7C.png = Juegos de cartas 21\Resources\7C.png
+		Juegos de cartas 21\Resources\7D.png = Juegos de cartas 21\Resources\7D.png
+		Juegos de cartas 21\Resources\7H.png = Juegos de cartas 21\Resources\7H.png
+		Juegos de cartas 21\Resources\7S.png = Juegos de cartas 21\Resources\7S.png
+		Juegos de cartas 21\Resources\8C.png = Juegos de cartas 21\Resources\8C.png
+		Juegos de cartas 21\Resources\8D.png = Juegos de cartas 21\Resources\8D.png
+		Juegos de cartas 21\Resources\8H.png = Juegos de cartas 21\Resources\8H.png
+		Juegos de cartas 21\Resources\8S.png = Juegos de cartas 21\Resources\8S.png
+		Juegos de cartas 21\Resources\9C.png = Juegos de cartas 21\Resources\9C.png
+		Juegos de cartas 21\Resources\9D.png = Juegos de cartas 21\Resources\9D.png
+		Juegos de cartas 21\Resources\9H.png = Juegos de cartas 21\Resources\9H.png
+		Juegos de cartas 21\Resources\9S.png = Juegos de cartas 21\Resources\9S.png
+		Juegos de cartas 21\Resources\AC.png = Juegos de cartas 21\Resources\AC.png
+		Juegos de cartas 21\Resources\AD.png = Juegos de cartas 21\Resources\AD.png
+		Juegos de cartas 21\Resources\AH.png = Juegos de cartas 21\Resources\AH.png
+		Juegos de cartas 21\Resources\AS.png = Juegos de cartas 21\Resources\AS.png
+		Juegos de cartas 21\Resources\b1fv.png = Juegos de cartas 21\Resources\b1fv.png
+		Juegos de cartas 21\Resources\greenfelt.jpg = Juegos de cartas 21\Resources\greenfelt.jpg
+		Juegos de cartas 21\Resources\JC.png = Juegos de cartas 21\Resources\JC.png
+		Juegos de cartas 21\Resources\JD.png = Juegos de cartas 21\Resources\JD.png
+		Juegos de cartas 21\Resources\JH.png = Juegos de cartas 21\Resources\JH.png
+		Juegos de cartas 21\Resources\JS.png = Juegos de cartas 21\Resources\JS.png
+		Juegos de cartas 21\Resources\KC.png = Juegos de cartas 21\Resources\KC.png
+		Juegos de cartas 21\Resources\KD.png = Juegos de cartas 21\Resources\KD.png
+		Juegos de cartas 21\Resources\KH.png = Juegos de cartas 21\Resources\KH.png
+		Juegos de cartas 21\Resources\KS.png = Juegos de cartas 21\Resources\KS.png
+		Juegos de cartas 21\Resources\QC.png = Juegos de cartas 21\Resources\QC.png
+		Juegos de cartas 21\Resources\QD.png = Juegos de cartas 21\Resources\QD.png
+		Juegos de cartas 21\Resources\QH.png = Juegos de cartas 21\Resources\QH.png
+		Juegos de cartas 21\Resources\QS.png = Juegos de cartas 21\Resources\QS.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332CEAD4-6A80-4D43-9241-69055421EFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332CEAD4-6A80-4D43-9241-69055421EFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332CEAD4-6A80-4D43-9241-69055421EFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332CEAD4-6A80-4D43-9241-69055421EFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E2DF0BF-7459-4EF0-B7B7-E7184482E63A}
+	EndGlobalSection
+EndGlobal
